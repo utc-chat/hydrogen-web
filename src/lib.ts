@@ -27,7 +27,7 @@ export {RoomViewModel} from "./domain/session/room/RoomViewModel.js";
 export {RoomView} from "./platform/web/ui/session/room/RoomView.js";
 export {TimelineViewModel} from "./domain/session/room/timeline/TimelineViewModel.js";
 export {TimelineView} from "./platform/web/ui/session/room/TimelineView";
-export {Navigation} from "./domain/navigation/Navigation.js";
+export {Navigation} from "./domain/navigation/Navigation";
 export {ComposerViewModel} from "./domain/session/room/ComposerViewModel.js";
 export {MessageComposer} from "./platform/web/ui/session/room/MessageComposer.js";
 export {TemplateView} from "./platform/web/ui/general/TemplateView";
